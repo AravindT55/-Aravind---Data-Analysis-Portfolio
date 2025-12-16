@@ -27,16 +27,16 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 ✔ KPIs: Revenue, Profit, Monthly Trends  
 📊 Dashboard with slicers and charts  
 
-🔗 [View Project](https://github.com/your-username/sales-dashboard)
+🔗 [View Project]([https://github.com/your-username/sales-dashboard](https://github.com/AravindT55/Chocolate-factory-sales-Analysis))
 
 ---
 
-### 🔹 2. E-commerce Sales Analysis (SQL + Python)
+### 🔹 2. Mini project for learning and practicing (SQL)
 📌 **Objective:** Analyze customer behavior and order trends  
 ✔ SQL queries for insights  
-✔ Python (Pandas) for analysis  
+✔ Practicing with random datasets 
 
-🔗 [View Project](https://github.com/your-username/ecommerce-analysis)
+🔗 [View Project]([https://github.com/your-username/ecommerce-analysis](https://github.com/AravindT55/Mini-project-sql-sales-analysis))
 
 ---
 
@@ -45,7 +45,7 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 ✔ KPI calculations  
 ✔ Power BI visuals  
 
-🔗 [View Project](https://github.com/your-username/kpi-dashboard)
+🔗 [View Project]([https://github.com/your-username/sales-dashboard](https://github.com/AravindT55/Chocolate-factory-sales-Analysis))
 
 ---
 
