@@ -27,7 +27,7 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 ✔ KPIs: Revenue, Profit, Monthly Trends  
 📊 Dashboard with slicers and charts  
 
-🔗 [View Project]([https://github.com/your-username/sales-dashboard](https://github.com/AravindT55/Chocolate-factory-sales-Analysis))
+🔗 [View Project](https://github.com/AravindT55/Chocolate-factory-sales-Analysis)
 
 ---
 
@@ -45,7 +45,7 @@ A collection of data analysis projects demonstrating end-to-end analytics, busin
 ✔ KPI calculations  
 ✔ Power BI visuals  
 
-🔗 [View Project]([https://github.com/your-username/sales-dashboard](https://github.com/AravindT55/Chocolate-factory-sales-Analysis))
+🔗 [View Project](https://github.com/AravindT55/Chocolate-factory-sales-Analysis)
 
 ---
 
